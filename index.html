@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Gallery Widget</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="gallery-container" id="galleryContainer"></div>
+
+    <div class="modal" id="galleryModal">
+        <span class="close-btn" id="closeBtn">&times;</span>
+        
+        <button class="nav-arrow prev-arrow" id="prevBtn">&#10094;</button>
+        
+        <div class="modal-content">
+            <img id="modalImage" src="" alt="Expanded gallery view">
+        </div>
+
+        <button class="nav-arrow next-arrow" id="nextBtn">&#10095;</button>
+        
+        <div class="thumbnail-strip" id="thumbnailStrip"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
