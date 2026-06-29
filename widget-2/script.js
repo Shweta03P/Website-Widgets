@@ -17,7 +17,7 @@ const galleryData = [
     },
     {
         id: 4,
-        imgUrl: "https://assets.cdn.filesafe.space/EPf4inebxgsxDKVxjwhB/media/6a428b7621adde19f4b85ff7.png",
+        imgUrl: "https://assets.cdn.filesafe.space/EPf4inebxgsxDKVxjwhB/media/6a4291c32fa97cb75438781a.png",
         hoverText: "Listing Presentation"
     },
 ];
