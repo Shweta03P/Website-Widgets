@@ -20,6 +20,11 @@ const galleryData = [
         imgUrl: "https://assets.cdn.filesafe.space/EPf4inebxgsxDKVxjwhB/media/6a4291c32fa97cb75438781a.png",
         hoverText: "Listing Presentation"
     },
+    {
+        id: 5,
+        imgUrl: "https://assets.cdn.filesafe.space/EPf4inebxgsxDKVxjwhB/media/6a43d5dea7501a002afb287f.png",
+        hoverText: "Listing Package Ads"
+    }
 ];
 
 let currentIndex = 0;
